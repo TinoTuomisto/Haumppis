@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Haumppis</string>
+    <string name="title_home">Home</string>
+    <string name="title_suosikit">Suosikit</string>
+    <string name="title_reseptit">Reseptit</string>
+    <string name="title_kauppalista">Kauppalista</string>
+    <string name="title_asetukset">Asetukset</string>
+    <string name="title_activity_kaurapuuro">Kaurapuuro</string>
+    <string name="kaurapuuro_ohje">
+        \n
+        <b>Ohjeet</b>
+        \n \n
+            1. Kiehauta vesi ja suola kattilassa. Sekoita joukkoon kaurahiutaleet. Keitä muutama min. \n\n
+            2. Lisää maito. Kypsennä vielä 5 min välillä sekoittaen. \n\n
+            3. Nosta kattila sivuun ja anna vetäytyä 5 min. \n\n
+            4. Tarjoa voisilmän, sokeriripauksen ja maidon kanssa. \n\n\n
+         VINKKI \n
+            * Levitä puuroannoksen päälle tuoreita marjoja ja pähkinöitä. \n
+            ** Ripottele pinnalle kuivattuja kookoslastuja, \n
+            mulperin marjoja sekä pakastekuivattuja mansikoita. \n
+    </string>
+    <string name="kaurapuuro_ainekset">
+        <b>Ainekset:</b> 4 annosta \n
+        5 dl vettä\n
+        4 dl kaurahiutaleita\n
+        5 dl täysmaitoa \n
+        1/2 tl suolaa \n
+        \n
+        Tarjoiluun:\n
+        4 - 5 dl täysmaitoa \n
+        Voita\n
+        Sokeria
+
+
+
+    </string>
+    <string name="kaurasuklaasmoothie_ainekset">
+        <b>Ainekset</b> \n \n
+        1 kypsä banaani \n
+        1 dl kylmää maitoa \n
+        2 rkl kaurahiutaleita \n
+        2 rkl kaakaojauhetta \n
+        \n
+        + Rouhittua suklaata \n
+
+    </string>
+
+    <string name="kaurasuklaasmoothie_ohje">\n
+        <b>Ohjeet</b> \n
+        \n
+        1. Mittaa ainekset tehosekoittimeen. \n \n
+        2. Surauta juoma tasaiseksi. \n \n
+        3. + Koristele annos rouhitulla suklaalla. \n \n
+        4. Nauti kylmänä! \n \n
+
+
+    </string>
+
+    <string name="myslimustikkamuffinsit_ainekset">
+    <b>Ainekset</b> \n\n
+    4 1/2 dl sämpyläjauhoja \n
+    3 dl mysliä \n
+    3 tl leivinjauhetta \n
+    1 tl kardemummaa \n
+    1 tl suolaa \n
+    1 dl ruokasokeria \n
+    2 dl pakastemustikoita \n
+    2 kananmunaa \n
+    3 dl maitoa \n
+    2 dl sulatettua voita tai margariinia \n
+    </string>
+
+    <string name="myslimustikkamuffinsit_ohje"> \n
+        <b>Ohjeet</b> \n\n
+        1. Sekoita kaikki kuiva-aineet keskenään kulhossa. \n\n
+        2. Lisää seokseen mustikat, kevyesti vispatut kananunat, maito ja voisula. \n\n
+        3. Sekoita hyvin. \n\n
+        4. Annostele taikina leivinpellille asetettuihin paperivuokiin tai voidellulle muffinipellille. \n\n
+        5. Ripottele päälle mysliä. Paista 190 asteisessa uunissa noin 20 minuuttia. \n\n
+        6. Anna muffinien jäähtyä viitisen minuuttia. \n\n
+    </string>
+
+
+
+    <string name="tomaattikeitto_ainekset">
+        <b>Ainekset</b> \n\n
+        800g  tomaatteja \n
+        1  sipuli \n
+        2  valkosipulinkynttä \n
+        1  kasvisliemikuutio \n
+        3 1/2 rkl tomaattipyreetä \n
+        5  dl vettä \n
+        2  tl kuivattua basilikaa \n
+        1  ripaus mustapippuria \n
+        1  ripaus suolaa \n
+        50g  maustamatonta tuorejuustoa \n
+    </string>
+
+    <string name="tomaattikeitto_ohjeet"> \n
+        <b>Ohjeet</b> \n\n
+        1. Aloita valmistamaan tomaattikeitto kalttaamalla eli kuorimalla tuoreet tomaatit.
+        Laita pari litraa vettä kiehumaan. Tee kuhunkin tomaattiin ristiviilto leikkuuveitsellä.
+        Upota kaikki tomaatit varovasti kiehuvaan veteen.\n\n
+
+        2. Nosta tomaatit vedestä pos reikäkauhan avulla
+        heti kun niiden kuoret alkavat rypistä ja irrota.
+        Siirrä tomaatit astiaan, jossa on kylmää vettä ja anna tomaattien jäähtyä. \n
+        Kuoren pitäisi nyt irrota helposti.
+        Pilko kaltatut tomaatit pienemmiksi,
+        samankokoisiksi paloiksi leikkuulaudalla. \n\n
+
+        3. Silppua sipuli. Kuullota sipulisilppua ja puseerattua valkosipulia
+        hetken ajan paistinpannulla öljyssä tai voissa. \n\n
+
+        4. Lisää joukoon paloitellut, kaltatut tomaatit
+        ja anna seoksen kiehua keskilämmöllä noin kymmenisen minuuttia. \n\n
+
+        5. Lisää joukkoon vesi, kasivisliemikuutio ja tomaattipyree. \n\n
+
+        6. Lisää lopuksi joukkoon mausteet sekä tuorejuusto. \n\n
+
+        7. Anna keiton kiehua hiljalleen vielä 15-20 minuuttia. \n\n
+
+        8. Soseuta kypsynyt tomaattikeitto tehosekoittimessa. \n\n
+
+        9. Koristele valmis keitto paahdetuilla pinjansiemenillä ja viipaloiduilla
+        basilikanlehdillä. \n\n Tarjoile tomaattikeitto tuoreen leivän kanssa ja nauti! \n\n
+
+    </string>
+
+
+
+    <string name="broileripekonipasta_ainekset">
+        <b>Ainekset</b> \n\n
+        Pastaa oman tarpeen mukaan \n
+        1 pkt hunajanmarinoitua broileria \n
+        1 pkt pekonia \n
+        1 sipuli \n
+        1/2 mustapippurijuusto \n
+        1 prk ruokakermaa \n
+    </string>
+
+
+    <string name="broileripekonipasta_ohje">\n
+        <b>Ohjeet</b> \n\n
+        - Paista broileri ja pekoni \n
+        - Pilko sipuli ja paista vähän aikaa\n
+        - Keitä pasta\n
+        - Lisää pilkottu juusto, kerma ja anna hautua. \n \n
+        1. Lisää pasta kiehuvaan veteen. \n\n
+        2. Lisää öljy pannulle ja paista broilerit ja pekonit kypsiksi. \n\n
+        3. Pilko sipulit pieneksi silpuiksi, heitä pannulle ja paista hetken. \n\n
+        4. Pilko juusto ja heitä se joukkoon. Lisää samalla myös kerma ja  \n
+        anna hautua miedolla lämmöllä. \n\n
+
+    </string>
+
+</resources>

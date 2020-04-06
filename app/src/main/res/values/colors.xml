@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/haumppis2</color>
+    <color name="colorPrimaryDark">@color/haumppis2</color>
+    <color name="colorAccent">@color/haumppis2</color>
+    <color name="haumppis1">#5DC8F5</color>
+    <color name="haumppis2">#004360</color>
+    <color name="haumppis3">#C4C4C4</color>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.c4.haumppis.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_suosikit"
+        android:name="com.c4.haumppis.ui.suosikit.SuosikitFragment"
+        android:label="@string/title_suosikit"
+        tools:layout="@layout/fragment_suosikit" />
+
+    <fragment
+        android:id="@+id/navigation_reseptit"
+        android:name="com.c4.haumppis.ui.reseptit.ReseptitFragment"
+        android:label="@string/title_reseptit"
+        tools:layout="@layout/fragment_reseptit" >
+        <action
+            android:id="@+id/action_navigation_reseptit_to_kaurapuuro"
+            app:destination="@id/navigation_kaurapuuro" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_asetukset"
+        android:name="com.c4.haumppis.ui.asetukset.AsetuksetFragment"
+        android:label="@string/title_asetukset"
+        tools:layout="@layout/fragment_asetukset" />
+    <activity
+        android:id="@+id/navigation_kaurapuuro"
+        android:name="com.c4.haumppis.content.Kaurapuuro"
+        android:label="activity_kaurapuuro"
+        tools:layout="@layout/activity_kaurapuuro" />
+</navigation>
