@@ -14,6 +14,7 @@ import com.c4.haumppis.content.Broileripekonipasta;
 import com.c4.haumppis.content.Kaurapuuro;
 import com.c4.haumppis.content.Kaurasuklaasmoothie;
 import com.c4.haumppis.content.Myslimustikkamuffinsit;
+import com.c4.haumppis.content.Template;
 import com.c4.haumppis.content.Tomaattikeitto;
 
 public class ReseptitFragment extends Fragment {
@@ -70,6 +71,16 @@ public class ReseptitFragment extends Fragment {
                  startActivity(in);
              }
          });
+
+         Button buttonTemplate = (Button) view.findViewById(R.id.buttonTemplate);
+         buttonTemplate.setOnClickListener(new View.OnClickListener() {
+             @Override
+             public void onClick(View v) {
+                 Intent in = new Intent(getActivity(), Template.class);
+                 startActivity(in);
+             }
+         });
+
 
          return view;
 

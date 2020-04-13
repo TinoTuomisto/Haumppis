@@ -187,7 +187,19 @@
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"/>
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/buttonTemplate"
+                    android:layout_width="308dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/haumppisbutton_default"
+                    android:text="Template"
+                    android:textColor="#FFF"
+                    android:textSize="18sp" />
+            </LinearLayout>
 
             <LinearLayout
                 android:layout_width="wrap_content"

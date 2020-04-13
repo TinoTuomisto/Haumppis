@@ -13,6 +13,9 @@
             android:name=".content.Kaurasuklaasmoothie"
             android:label="Kaurasuklaasmoothie"/>
         <activity
+            android:name=".content.Template"
+            android:label="Template"/>
+        <activity
             android:name=".content.Myslimustikkamuffinsit"
             android:label="Mysli-mustikkamuffinsit"/>
         <activity
