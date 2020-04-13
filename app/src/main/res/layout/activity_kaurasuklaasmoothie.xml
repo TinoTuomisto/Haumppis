@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/haumppis1"
     tools:context=".content.Kaurasuklaasmoothie">
 
     <ScrollView
@@ -45,10 +46,13 @@
 
             <TextView
                 android:id="@+id/textView"
-                android:layout_width="wrap_content"
+                android:textColor="@color/haumppis3"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="15dp"
+                android:layout_marginTop="5dp"
                 android:layout_marginRight="15dp"
+                android:background="@drawable/haumppis_text_background"
                 android:text="@string/kaurasuklaasmoothie_ohje"
                 android:textSize="17sp" />
 
